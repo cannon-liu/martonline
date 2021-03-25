@@ -42,7 +42,7 @@ pyOpenSSL==18.0.0
 pypiwin32==223
 pytz==2018.5
 pywin32==223
-PyYAML==3.13
+PyYAML==5.4
 redis==2.10.6
 requests==2.19.1
 six==1.11.0
