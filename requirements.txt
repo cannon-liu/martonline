@@ -36,7 +36,7 @@ openpyxl==2.5.7
 Pillow==5.2.0
 pycparser==2.18
 pycryptodome==3.6.5
-PyJWT==1.6.4
+PyJWT==2.4.0
 PyMySQL==0.8.1
 pyOpenSSL==18.0.0
 pypiwin32==223
